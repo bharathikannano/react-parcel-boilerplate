@@ -1,0 +1,11 @@
+
+@import "ember-bootstrap/bootstrap";
+@import "ember-bootstrap/bootstrap/variables";
+@import "ember-bootstrap/bootstrap/mixins";
+
+.card-style{
+  margin: 2rem;
+padding: 3rem;
+border: 1px solid #e7e7e7;
+border-radius: 10px;
+}
