@@ -1,1 +1,1 @@
-# reactParcel-boilerplate
+# react-parcel-boilerplate
